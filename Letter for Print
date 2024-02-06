@@ -18,7 +18,7 @@
       <tbody>
         <tr class="letter-table--row">
           <!-- HL! Logo -->
-          <td class="letter-table--row--col" id="letter-table--row--col--a"><img src="https://lodgedesign.com/_share/critical/hl/vbo-assets/logo.png" alt="Hendricks Live! logo"></td>
+          <td class="letter-table--row--col" id="letter-table--row--col--a"><img src="https://raw.githubusercontent.com/bmorgan55/HL/main/logo.png" alt="Hendricks Live! logo"></td>
           <!-- Web Address -->
           <td class="letter-table--row--col" id="letter-table--row--col--b">hendrickslive.org</td>
           <!-- Physical Address -->
@@ -29,7 +29,7 @@
   </div>
   <!-- HL! Footer Stripes -->
   <div class="lodge-template--decoration">
-    <img src="https://lodgedesign.com/_share/critical/hl/vbo-assets/hl-stripe.png" alt="Hendricks Live! Brand Stripes">
+    <img src="https://raw.githubusercontent.com/bmorgan55/HL/main/hl-stripe.png" alt="Hendricks Live! Brand Stripes">
   </div>
   <!-- Custom CSS -->
   <style>#letter--page-footer{}#letter-table{background-color:#2d2a26;padding:1rem;padding-top:1.25rem;padding-right:.25rem;padding-bottom:.25rem}#letter-table--row--col--a{width:50%}#letter-table--row--col--a img{width:80%;height:auto}#letter-table--row--col--b{width:25%;text-align:right;padding:12px 20px 0 0;color:#fff;font-family:arial,sans-serif;font-size:12px;font-weight:700;vertical-align:top}#letter-table--row--col--b a{text-decoration:none;color:#fff}#letter-table--row--col--c{width:20%;text-align:left;padding:12px 0 0 0;color:#fff;font-family:arial,sans-serif;font-size:12px;font-weight:700;vertical-align:top}.lodge-template--decoration{width:100%}.lodge-template--decoration img{width:100%;height:auto;margin-top:-1px}#letter--page-body{padding:136px 0px 56px 0px}#letter--page-body *{font-family:arial,sans-serif;font-weight:400;color:#000}#letter--page-body h1,#letter--page-body h2,#letter--page-body h3,#letter--page-body h4,#letter--page-body h5,#letter--page-body h6{font-weight:700;margin-top:8px;margin-bottom:0}#letter--page-body h1,#letter--page-body h2{font-size:28px;margin-bottom:24px}#letter--page-body h2{color:#0062a8}#letter--page-body h3,#letter--page-body h4{font-size:24px;margin-bottom:24px}#letter--page-body h4{color:#0062a8}#letter--page-body h5,#letter--page-body h6{font-size:22px;margin-bottom:24px}#letter--page-body h6{color:#0062a8}#letter--page-body p{font-size:12.5px;line-height:1.618em;margin-bottom:24px}#letter--page-body p:last-child{margin-bottom:0}#letter--page-body ul,#letter--page-body ol{padding-left:20px;margin:24px 0}#letter--page-body li{font-size:12.5px;margin-bottom:8px}#letter--page-body strong,#letter--page-body b{font-weight:700}#letter--page-body em,#letter--page-body i{font-style:italic}#letter--page-body a{color:#0062a8;font-weight:400;font-size:inherit}#letter--page-body *:last-child{margin-bottom:0}</style>
