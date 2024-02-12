@@ -2,7 +2,7 @@
 <div id="letter--page-footer"><p><br></p>
   <!-- HL! Footer Stripes -->
   <div class="lodge-template--decoration">
-    <img src="https://raw.githubusercontent.com/bmorgan55/HL/main/hl-stripe_alt.png" alt="Hendricks Live! Brand Stripes">
+    <img src="https://raw.githubusercontent.com/bmorgan55/HL/blob/6902d6ccd2a048fafa3bd58c3d74807baf38a623/images/hl-stripe_alt.png" alt="Hendricks Live! Brand Stripes">
   </div>
   <!-- HL! Footer Content -->
   <div class="tables-container">
@@ -14,7 +14,7 @@
           <!-- Physical Address -->
           <td class="letter-table--row--col" id="letter-table--row--col--c">200 W. Main Street <br>Plainfield, IN 46168</td>
           <!-- HL! Logo -->
-          <td class="letter-table--row--col" id="letter-table--row--col--a"><img src="https://raw.githubusercontent.com/bmorgan55/HL/main/logo_alt.png" alt="Hendricks Live! logo"></td>
+          <td class="letter-table--row--col" id="letter-table--row--col--a"><img src="https://raw.githubusercontent.com/bmorgan55/HL/blob/6902d6ccd2a048fafa3bd58c3d74807baf38a623/images/logo_alt.png" alt="Hendricks Live! logo"></td>
         </tr>
       </tbody>
     </table>
