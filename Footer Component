@@ -1,5 +1,5 @@
 <!-- *** Footer Component START *** -->
-<div id="letter--page-footer">
+<div id="letter--page-footer"><p><br></p>
   <!-- HL! Footer Stripes -->
   <div class="lodge-template--decoration">
     <img src="https://raw.githubusercontent.com/bmorgan55/HL/main/hl-stripe_alt.png" alt="Hendricks Live! Brand Stripes">
