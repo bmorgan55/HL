@@ -1,1 +1,1 @@
-This is a collection of of custom HTML snippets created for Hendricks Live! VBO Templates
+This is a collection of of custom HTML snippets and image assets created for Hendricks Live! VBO Templates
